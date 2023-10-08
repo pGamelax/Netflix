@@ -1,0 +1,11 @@
+.active {
+    animation: mymove 0.3s none;
+}
+@keyframes mymove {
+    0% {width: 0px;}
+    100% {width: 208px;}
+}
+
+.items-notifications{
+    border: 1px solid gray
+}
